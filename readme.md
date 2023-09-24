@@ -55,6 +55,6 @@ pip install flask
 
 ## Acknowledgments
 
-The Pygame community for providing the game development library.
+- The Pygame community for providing the game development library.
 
-Flask developers for creating a versatile web framework.
+- Flask developers for creating a versatile web framework.
